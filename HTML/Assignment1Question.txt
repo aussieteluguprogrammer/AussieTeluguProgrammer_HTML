@@ -1,0 +1,18 @@
+Question:
+You have been approached by a local bookstore named "Literary Luminary" to help create a simple HTML webpage for them. Here's what they're looking for:
+Requirements:
+Title: The title of the page should be "Literary Luminary: Your Local Bookstore".
+Header: The webpage should have a main header with the name of the bookstore and a brief slogan of your choice.
+Navigation: Create a simple navigation bar with links to "Home", "About", "Books", and "Contact". (Note: The links don't need to lead anywhere for this exercise.)
+Main Content:
+Welcome Section: A brief welcome message introducing the bookstore to new visitors.
+Featured Books: Display a list of 3-4 books that are currently popular. For each book, provide:
+A placeholder image for the book cover.
+The title of the book.
+A brief description or synopsis.
+Footer:
+Add a footer with copyright information for the bookstore.
+Include links for "Privacy Policy" and "Terms & Conditions" (again, these don't need to lead anywhere).
+Bonus:
+Contact Form: Under the "Contact" section in your navigation, add a simple contact form where users can input their name, email, and a message.
+Styles: While the primary focus is HTML, feel free to add some inline or internal CSS to enhance the appearance of the page.
